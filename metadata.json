@@ -1,0 +1,20 @@
+{
+	"KPackageStructure": "KWin/Script",
+	"KPlugin": {
+		"Authors": [
+			{
+				"Name": "Benjamin Cable",
+				"Email": "cable.benjamin@protonmail.com"
+			}
+		],
+		"Description": "Automatically renames incrementally (1, 2, 3...)",
+		"Icon": "preferences-desktop-virtual",
+		"Id": "autoname-desktops",
+		"Name": "Autoname Desktops",
+		"ServiceTypes": ["KWin/Script"],
+		"Version": "1.0",
+		"License": "GPLv3",
+		"Website": "https://github.com/ladydascalie/autoname-desktops"
+	},
+	"X-KDE-PluginKeyword": "autoname-desktops"
+}
