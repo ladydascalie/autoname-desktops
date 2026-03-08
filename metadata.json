@@ -16,5 +16,6 @@
 		"License": "GPLv3",
 		"Website": "https://github.com/ladydascalie/autoname-desktops"
 	},
+	"X-Plasma-API": "javascript",
 	"X-KDE-PluginKeyword": "autoname-desktops"
 }
